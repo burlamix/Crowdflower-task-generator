@@ -1,0 +1,18 @@
+Friends Trip
+Preferences:10,4,3,6,10,9,6,8,10,8
+Sequence:F,E,H,D,J,B,G
+Default
+Thanks for asking John, we believe that you will highly enjoy the recommended sequence. You will be somewhat okay with B, still, Adam would love to see B, so it may be fun for you too. We know you love A and it is not included in the recommendation, despite that, Adam will likely to detest A, so it was left out to maximize group satisfaction.
+===
+Friends Trip
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:F,E,H,D,J,B,G
+Default
+Hello, Adam, we have predicted that you will be really happy with the recommended sequence. You will like G, which is your least favorite PoI, and is included in the sequence. We know B is your favorite and it is not included in the recommendation, still, John will be somewhat okay with B, so it was left out to maximize group satisfaction.
+===
+Friends Trip
+Preferences:10,5,2,7,9,8,5,6,7,6
+Sequence:F,E,H,D,J,B,G
+Default
+Hello, Mary, we have predicted that you will like the recommended sequence. You will be just basically okay with B, despite that, Adam would cherish B, so why not give it a chance. We know you love A and it is not included in the recommendation, having said that, Adam will likely not really enjoy A, so it was left out to maximize group satisfaction.
+===

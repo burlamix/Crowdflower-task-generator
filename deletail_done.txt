@@ -1,0 +1,179 @@
+Family Public 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by your mother and your sister. In fact, POI1 is the place where your father wants to visit the most.
+3746650378
+Hey John, it would be perfect if you could visit POI1 first in your trip. We know that you do not really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by your mother and your sister. In fact, POI1 is the place where your father wants to visit the most.
+3746914341
+NIL
+===
+Family Anonymous 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by your mother and your sister. In fact, POI1 is the place where your father wants to visit the most.
+3749589749 
+NIL
+3749596272
+Hey John, we recommend you to visit POI1 first in your trip. The POI you want to visit most is disliked by your mother and your sister. In fact, one of your family members loves POI1 a lot!
+===
+Family Public 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by your mother and your sister. In fact, POI1 is the place where your father wants to visit the most.
+3746799041
+Hey John, we recommend you to visit POI1 first in your trip. We know that you would prefer not to visit this place, but your family rates it highly. The POI you want to visit most is disliked by your mother and your sister.In fact, POI1 is the place your father wants to see the most.
+3749086158
+Hey John, your mother, brother and father rated POI3 as 10/10! We know that this place is not your favourite but your family rates this place highly. Your mother and your sister didn't like the place you want to visit. In fact, POI1 is the place where your father wants to visit the most.
+===
+Family Anonymous 2
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of the family members wants to visit the most.
+3746645967
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your family rates this place highly. Not a popular place. In fact, POI1 is the place where one of the family members wants to visit the most.
+3749350710
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your family rates this place highly. Most of the people do not want to visit the POI you want to visit the most. In fact, POI1 is the place where one of the family members wants to visit the most.
+===
+Family Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by your sister. We put it lower in the sequence to ensure maximum satisfaction of the family.
+3745699179
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI's are not as highly rated by your mother and brother. There are several other places that are prefered more. In fact, POI8 was rated less than a 4 by your sister. We put it lower in the sequence to ensure the best solution for everyone.
+3745791877
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that received higher ratings. In fact, your sister really doesn't want to go to POI8. We moved it back to ensure everyone is happy.
+===
+Family Anonymous 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your family. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction of the family.
+3745667723
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your family. There are several other places that are prefered more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction for everyone.
+3745798234 
+Hey John, we would like to recommend you to visit other POIs first, as no one favours your favourite POI.
+===
+Colleagues Public 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your team members rate this place highly. The POI you want to visit most is disliked by your colleague Jay and your manager. In fact, POI1 is the place where your colleague Alice wants to visit the most.
+3749298743
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your team members rate this place highly. The POI you want to visit most is disliked by your colleague Jay and your manager. In fact, POI1 is the place where your colleague Alice wants to visit the most.
+3749323073
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your team members rated this place highly. The POI you want to visit most is disliked by your colleague Jay and your manager. In fact, POI1 is the place where your colleague Alice wants to visit the most.
+===
+Colleagues Anonymous 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your team members rate this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of your colleagues wants to visit the most.
+3749299687
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your team members rated this place highly.The place you want to visit the most is disliked by most of the people. In fact, POI1 is the place where one of your colleagues wants to visit the most.
+3749476560
+Hey John, despite your low score for the first POI we still recommend visiting it first. We know that you don’t really prefer visiting that place but your team members rate this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of your colleagues wants to visit the most.
+===
+Colleagues Public 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, your colleague Jay and manager Jack gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by your colleague Adam. Thus, we eliminated it from the sequence to ensure maximum satisfaction of the team.
+3749305540
+Hey John, your colleague Jay and manager Jack gave POI3 a rating of 10/10! In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by your colleague Adam. Thus, we eliminated it from the sequence to ensure maximum satisfaction of the team.
+3749501819
+Hey John, your colleague Jay and manager Jack gave POI3 a rating of 10/10! This makes POI3 the highest rated place! In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by your colleague Adam. So to ensure maximum satisfaction of your team, POI3 is not included in the recommendation.
+===
+Colleagues Anonymous 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, three of your team members gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your team.
+3749307903
+Hey John, three of your team members gave POI3 a rating of 10/10! Thus, it was the highest rated place in total. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your team.
+3749510621
+Hey John, three of your team members gave POI3 a rating of 10/10! This makes POI3 the highest rated place! In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your team.
+===
+Colleagues Anonymous 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your team. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction of the team.
+3747105088
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your team. The majority prefers other places.In fact, POI8 was rated less than 4 by one other member. 
+3747314206
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your team. There are several other places that are preferred more. Did you know that PO18 was rated less than 4 by one other member?
+===
+Friends Public 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your friends rate this place highly. The POI you want to visit most is disliked by Jay and Adam. In fact, POI1 is the place where Alice wants to visit the most.
+3745728901
+Hey John, we recommend you to visit POI1 first in your trip. We know that you  really don't prefer visiting that place but your friends rate this place very highly. In fact, POI1 is the place that Alice wants to visit the most.
+3745803359
+Hey John, we know you don't want to visit POI1, but Alice really does.Jay and Adam really don't want to go to your favourite POI.
+===
+Friends Anonymous 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your friends rate this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of your friends wants to visit the most.
+1234543234
+We know that you don't want to visit that place but your friends do.Your favourite POI is not favoured among others.
+3746324772
+Hey John, we recommend you to visit POI2 first in your trip. We see that you do not prefer to visit <alpha> place. But <x> out of <y> of your friends have rates this place highly. Would you like to reconsider?,The POI you want to visit most is also liked by <x> out of <y> of your friends. In fact, POI1 is the place where one of your friends wants to visit the most.
+===
+Friends Public 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, Alice, Jay and Adam gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by Mitri and Ben. Thus, we eliminated it from the sequence to ensure maximum satisfaction of the group
+3745741786
+Hey John, Alice, Jay and Adam gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by Mitri and Ben. Thus, we eliminated it from the sequence to ensure the maximum satisfaction of the entire group.
+3745741786
+Hey John, Alice, Jay and Adam gave POI3 a rating of 10/10! Thus, it was the place where in total rated the highest.In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by Mitri and Ben. Thus, we eliminated it from the sequence to ensure maximum satisfaction of the group
+===
+Friends Anonymous 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, three of your friends members gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your groups.
+3745759009
+Hey John, three of your friends members gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two of your other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your groups.
+3749294783
+Hey John, three of your friends gave POI3 a rating of 10/10!, Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends of yours. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your group. 
+===
+Family Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by your sister. We put it lower in the sequence to ensure maximum satisfaction of the family.
+3745699179
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI's are not as highly rated by your mother and brother. There are several other places that are prefered more. In fact, POI8 was rated less than a 4 by your sister. We put it lower in the sequence to ensure the best solution for everyone.
+3745791877
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that received higher ratings. In fact, your sister really doesn't want to go to POI8. We moved it back to ensure everyone is happy.
+===
+Friends Anonymous 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your group. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction of the group.
+3745764939
+NIL
+3748988479
+NIL
+===
+Colleagues Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9,4
+Default: 
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your colleague, Jay and your manager, Adam. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by manager. We put it lower in the sequence to ensure maximum satisfaction of the team.
+3747069384
+NIL
+3747218228
+NIL

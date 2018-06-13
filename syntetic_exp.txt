@@ -1,0 +1,95 @@
+Family Public 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by your mother and your sister. In fact, POI1 is the place where your father wants to visit the most.
+===
+Family Anonymous 2
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your family rates this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of the family members wants to visit the most.
+===
+Family Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by your sister. We put it lower in the sequence to ensure maximum satisfaction of the family.
+===
+Family Anonymous 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your family. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction of the family.
+===
+Colleagues Public 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your team members rate this place highly. The POI you want to visit most is disliked by your colleague Jay and your manager. In fact, POI1 is the place where your colleague Alice wants to visit the most.
+===
+Colleagues Anonymous 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your team members rate this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of your colleagues wants to visit the most.
+===
+Colleagues Public 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, your colleague Jay and manager Jack gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by your colleague Adam. Thus, we eliminated it from the sequence to ensure maximum satisfaction of the team.
+===
+Colleagues Anonymous 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, three of your team members gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your team.
+===
+Colleagues Anonymous 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your team. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction of the team.
+===
+Friends Public 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you do not really prefer visiting that place but your friends rate this place highly. The POI you want to visit most is disliked by Jay and Adam. In fact, POI1 is the place where Alice wants to visit the most.
+===
+Friends Anonymous 1
+Preferences:1,9,8,9,7,9,6,9,3,8
+Sequence:1,6,4,7,5,8,3,9
+Default
+Hey John, we recommend you to visit POI1 first in your trip. We know that you don’t really prefer visiting that place but your friends rate this place highly. The POI you want to visit most is disliked by most of the people. In fact, POI1 is the place where one of your friends wants to visit the most.
+===
+Friends Public 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, Alice, Jay and Adam gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by Mitri and Ben. Thus, we eliminated it from the sequence to ensure maximum satisfaction of the group
+===
+Friends Anonymous 2
+Preferences:10,5,2,9,4,8,5,6,7,6
+Sequence:7,2,3,5,10,4,9,6
+Default
+Hey John, three of your friends members gave POI3 a rating of 10/10! Thus, it was collectively the highest rated place. In addition, there are several other places that are preferred more than POI1 and it was rated less than 4 by two other friends. Thus, we eliminated it from the sequence to ensure maximum satisfaction of your groups.
+===
+Family Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by your sister. We put it lower in the sequence to ensure maximum satisfaction of the family.
+===
+Friends Anonymous 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your group. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by one other member. We put it lower in the sequence to ensure maximum satisfaction of the
+===
+Colleagues Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9,4
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your colleague, Jay and your manager, Adam. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by manager. We put it lower in the sequence to ensure maximum satisfaction of the team.

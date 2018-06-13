@@ -1,0 +1,9 @@
+﻿Friends Public 3
+Preferences:1,9,3,8,7,6,6,10,9,4
+Sequence:10,3,1,6,7,5,8,9
+Default
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that are preferred more. In fact, POI8 was rated less than 4 by your sister. We put it lower in the sequence to ensure maximum satisfaction of the family.
+3745699179
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI's are not as highly rated by your mother and brother. There are several other places that are prefered more. In fact, POI8 was rated less than a 4 by your sister. We put it lower in the sequence to ensure the best solution for everyone.
+3745791877
+Hey John, we would like to recommend you to visit other POIs first, as your favourite POI is not highly rated by your mother and your brother. There are several other places that received higher ratings. In fact, your sister really doesn't want to go to POI8. We moved it back to ensure everyone is happy.
