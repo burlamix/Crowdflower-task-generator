@@ -45,7 +45,6 @@ while True:
 	response=requests.post(request_url, data=json.dumps(payload), headers=headers)
 	print(response.content)
 
-	exit()
 
 	#find job id and save it
 	workJson = json.loads(response.content)
