@@ -47,7 +47,7 @@ while True:
 
 
 	#find job id and save it
-	workJson = json.loads(response.content)
-	job_id = workJson['id'+str(job_id)]
-	print(job_id)
+	#workJson = json.loads(response.content)
+	#job_id = workJson['id'+str(job_id)]
+	#print(job_id)
 print("\n\n\n\t\tEND")
