@@ -22,7 +22,7 @@ while True:
 
 	data = file_data.next()
 
-	job_title= "Group Recommendation Survey "+str(data[0][0])+" "+str(data[0][1])#+" "+str(data[0][2])
+	job_title= "Group Recommendation Survey "+str(data[0][0])+" "+str(data[0][1])+" "+str(data[0][2])
 
 	print(job_title)
 
