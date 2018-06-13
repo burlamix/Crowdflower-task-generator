@@ -56,7 +56,7 @@ def file_parser_verify(file_name):
 def file_parser_fid_fix(file_name):
 	with open(file_name, 'rb') as f:
 
-		for i in range (0,7):
+		while True:
 
 			#print("----------------------"+str(i))
 			#group type
@@ -67,6 +67,9 @@ def file_parser_fid_fix(file_name):
 
 			#ratings
 			content = f.readline()
+			
+			if (content == ""): 
+				exit()
 			content = content.split()
 			content = content[0].split(":")
 			ratings = content[1].split(",")
