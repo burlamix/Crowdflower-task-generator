@@ -3,6 +3,7 @@ import json
 from utils import make_instruction_fid_fix
 from utils import make_cml_find_fix
 from utils import file_parser_fid_fix
+import sys
 
 
 #Creating data for the playload
@@ -13,7 +14,7 @@ headers = {'content-type': 'application/json'}
 
 
 #file with automatic explanation
-file_data = file_parser_fid_fix("2018-06-13T12_01_50+00_00-Friends Trip.txt")
+file_data = file_parser_fid_fix(str(sys.argv[1]))
 
 
 #loop until and of file is reach
